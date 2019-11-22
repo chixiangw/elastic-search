@@ -1,0 +1,4 @@
+edu/northwestern/ssa/downloader_copy.class
+edu/northwestern/ssa/AwsSignedRestRequest.class
+edu/northwestern/ssa/ElasticSearch.class
+edu/northwestern/ssa/parser.class
